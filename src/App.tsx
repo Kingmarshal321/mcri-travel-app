@@ -13,9 +13,10 @@ function App() {
         <p>Here you will find suggestions on what to pack, what to see, and your flight information</p>
 
         <p>Hope you have a great time!</p>
-        
+        <p>fun</p>
+        <button>Initialize</button>
       </div>
-    </>
+    </> 
   )
 }
 
